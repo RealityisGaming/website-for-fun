@@ -1,26 +1,17 @@
-.menubar {
-  width: 45%;
-  margin-left: 8.5em;
+.burger {
+  height: 28px;
+  width: 32px;
 }
 
-.list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+.fa-circle-caret-down {
+  font-size: 24px;
 }
 
-.list-items a {
-  color: black;
-  font-family: sans-serif;
-  font-size: 0.9em;
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
-}
-
-.list-items a:hover {
-  color: black;
+.layer1, .layer2, .layer3 {
+  background: black;
+  height: 4px;
+  margin-top: 4px;
+  width: 100%;
+  border-radius: 10px;
 }
 /*# sourceMappingURL=dropdown.css.map */

@@ -1,23 +1,19 @@
 .cart {
-  padding-right: 2em;
-  position: relative;
+  padding-right: 10px;
 }
-
-.cart .number-of-items {
+.number-of-items {
   display: flex;
   cursor: pointer;
   justify-content: center;
-  align-items: center;
   color: white;
-  position: absolute;
-  left: 18px;
+  position: relative;
+  left: 14px;
   top: -7px;
   background: #f09d51;
-  height: 20px;
-  width: 20px;
+  height: 15px;
+  width: 14px;
   border-radius: 7px;
 }
-
 .number-of-items .noi{
   font-size: 0.7em;
 }
