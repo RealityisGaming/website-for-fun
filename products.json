@@ -1,0 +1,36 @@
+{
+  "items":[
+    {
+      "sys": {"id": "1"},
+      "fields": {
+        "title": "Number 1",
+        "price": 114,
+        "img": {"fields": {"file":{"url": "./images/Bard.jpg"}}}
+      }
+    },
+    {
+      "sys": {"id": "2"},
+      "fields": {
+        "title": "Number 2",
+        "price": 58,
+        "img": {"fields": {"file":{"url": "./images/BEar.jpg"}}}
+      }
+    },
+    {
+      "sys": {"id": "3"},
+      "fields": {
+        "title": "Number 3",
+        "price": 75,
+        "img": {"fields": {"file":{"url": "./images/Dabbledob Boondiggles.jpg"}}}
+      }
+    },
+    {
+      "sys": {"id": "4"},
+      "fields": {
+        "title": "Number 4",
+        "price": 100,
+        "img": {"fields": {"file":{"url": "./images/Ninja Tortle.jpg"}}}
+      }
+    }
+  ]
+}
