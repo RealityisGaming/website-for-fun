@@ -1,0 +1,20 @@
+.menubar {
+  width: 45%;
+  margin-left: 8.5em;
+}
+
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-items a{
+  color: black;
+  font-family: sans-serif;
+  font-size: 0.9em;
+  transition: 0.4s;
+}
+
+.list-items a:hover {
+  color: black;
+}
